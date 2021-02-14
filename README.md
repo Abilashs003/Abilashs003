@@ -18,3 +18,5 @@
 <a href="https://dev.to/abilashs003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amruthpillai" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abilash-s-aa305997/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amruthpillai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abi_aradhya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amruthpillai" height="30" width="40" /></a>
+
+![](https://hit.yhype.me/github/profile?user_id=28189829)
