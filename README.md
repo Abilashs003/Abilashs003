@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Abilash S</h1>
 <h3 align="center">Software Developer at Siemens Healthcare, Open Source Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abilashs003" alt="amruthpillai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthPillai" alt="amruthpillai" /> </p>
 
 - 🔭 I’m currently working at [Siemens Healthcare](https://www.siemens-healthineers.com/en-in/)
 
