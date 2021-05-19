@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **abilashs003@gmail.com**
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abilashs003" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abilashs003?trk=profile-badge">Abilash S</a></div>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/abilashs003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amruthpillai" height="30" width="40" /></a>
