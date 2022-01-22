@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthPillai" alt="amruthpillai" /> </p>
 
-- 🔭 I’m currently working at [Siemens Healthcare](https://www.siemens-healthineers.com/en-in/)
+- 🔭 I’m currently working at [Maersk](https://www.maersk.com/)
 
 - 🌱 I’m currently learning to **navigate through life 🚢**
 
