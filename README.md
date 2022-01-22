@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning to **navigate through life 🚢**
 
-- 📝 I regulary write articles on [http://codewithabi.hashnode.dev/](http://codewithabi.hashnode.dev/) and [abiaradhya.medium.com](abiaradhya.medium.com)
+- 📝 I regulary write articles on  [http://abiaradhya.medium.com](http://abiaradhya.medium.com)
 
 - 💬 Ask me about **Fullstack Web Dev, art and Life**
 
